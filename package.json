@@ -2,7 +2,7 @@
   "name": "hive_app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://alexkiriungi.github.io/thehive/",
+  "homepage": "https://alexkiriungi.github.io/theehive/",
   "type": "module",
   "scripts": {
     "predeploy" : "npm run build",
